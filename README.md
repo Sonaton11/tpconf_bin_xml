@@ -11,7 +11,7 @@ Simple command line utility to convert TP-Link modem/router backup config files 
 
 ## Getting Started
 
-Single python file, [download](https://raw.githubusercontent.com/Sonaton11/tpconf-bin-xml/raw/master/tpconf-bin-xml.py), optionally chmod +x, and  run.
+Single python file, [download](https://raw.githubusercontent.com/Sonaton11/tpconf-bin-xml/raw/master/tpconf_bin_xml.py), optionally chmod +x, and  run.
 
 First, download a backup conf.bin file from your router using its web interface (System Tools → Backup & Restore → Backup).
 ```sh
